@@ -1,0 +1,6 @@
+Task
+============
+1. Create a simple application that allows you to enter the student marks for 3 subjects
+2. Calculate the sum of the 3 subjects
+3. Find the mean grade of the 3 subjects
+4. Display the results in a table

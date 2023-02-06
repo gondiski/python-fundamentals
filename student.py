@@ -1,0 +1,15 @@
+'''Task: Write a program that allows us to collect student data'''
+print("Enter the student name:\n")
+name = input()
+print("Enter the admission number:\n")
+admsn = input()
+print("Enter the student age:\n")
+age = input()
+print("Enter the student DOB:\n")
+dob = input()
+print("==================\n")
+print("Student name: "+ name + "\n")
+print("Student admsn: " + str(admsn) + "\n")
+print("Student age: " + str(age) + "\n")
+print("Student DOB: " + dob + "\n")
+
